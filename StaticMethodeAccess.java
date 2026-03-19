@@ -5,7 +5,7 @@ package javaprograms;
 
 public class StaticMethodeAccess {
 
-	static void sub() {
+	static void sub () {
 		
 		System.out.println("Sub");
 	
